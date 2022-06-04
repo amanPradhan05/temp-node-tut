@@ -1,0 +1,5 @@
+const names=require('./names')
+const Hi=require('./modules')
+ console.log(names)
+Hi(names.jhon)
+Hi('susan')
